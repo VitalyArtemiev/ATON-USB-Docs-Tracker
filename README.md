@@ -1,2 +1,2 @@
-# ATON-USB-Docs-Tracker-
+# ATON-USB-Docs-Tracker
 Документация и багтрекер для проекта ATON-USB
